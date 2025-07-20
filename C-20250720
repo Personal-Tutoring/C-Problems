@@ -1,0 +1,66 @@
+# C언어 기초 문제 30선
+## printf, scanf, 자료형, 논리연산자, 연산자만 사용하는 초보자 문제 모음
+
+> **📚 학습 목표**
+> - 기본 입출력 함수(printf, scanf) 숙련
+> - 기본 자료형(int, float, double, char) 이해
+> - 기본 연산자(+, -, *, /, %) 활용
+> - 논리연산자(&&, ||, !) 및 비교연산자(==, !=, <, >, <=, >=) 활용
+
+---
+
+## 📋 문제 분류 및 학습 단계
+
+### 🟢 1단계: 기본 출력 (6문제)
+기본적인 출력 함수를 익히는 단계입니다.
+
+| 문제이름(번호) | Link |
+|---|---|
+| Hello World(2557) | [https://www.acmicpc.net/problem/2557](https://www.acmicpc.net/problem/2557) |
+| We love kriii(10718) | [https://www.acmicpc.net/problem/10718](https://www.acmicpc.net/problem/10718) |
+| 고양이(10171) | [https://www.acmicpc.net/problem/10171](https://www.acmicpc.net/problem/10171) |
+| 개(10172) | [https://www.acmicpc.net/problem/10172](https://www.acmicpc.net/problem/10172) |
+| 등록(7287) | [https://www.acmicpc.net/problem/7287](https://www.acmicpc.net/problem/7287) |
+| 나부 함대 데이터(9654) | [https://www.acmicpc.net/problem/9654](https://www.acmicpc.net/problem/9654) |
+
+### 🟡 2단계: 기본 입출력 및 사칙연산 (14문제)
+scanf와 printf를 함께 사용하며 기본 연산을 수행하는 단계입니다.
+
+| 문제이름(번호) | Link |
+|---|---|
+| A+B(1000) | [https://www.acmicpc.net/problem/1000](https://www.acmicpc.net/problem/1000) |
+| A-B(1001) | [https://www.acmicpc.net/problem/1001](https://www.acmicpc.net/problem/1001) |
+| A×B(10998) | [https://www.acmicpc.net/problem/10998](https://www.acmicpc.net/problem/10998) |
+| A/B(1008) | [https://www.acmicpc.net/problem/1008](https://www.acmicpc.net/problem/1008) |
+| 사칙연산(10869) | [https://www.acmicpc.net/problem/10869](https://www.acmicpc.net/problem/10869) |
+| 나머지(10430) | [https://www.acmicpc.net/problem/10430](https://www.acmicpc.net/problem/10430) |
+| 곱셈(2588) | [https://www.acmicpc.net/problem/2588](https://www.acmicpc.net/problem/2588) |
+| A+B - 2(2558) | [https://www.acmicpc.net/problem/2558](https://www.acmicpc.net/problem/2558) |
+| 꼬마 정민(11382) | [https://www.acmicpc.net/problem/11382](https://www.acmicpc.net/problem/11382) |
+| 1998년생인 내가 태국에서는 2541년생?!(18108) | [https://www.acmicpc.net/problem/18108](https://www.acmicpc.net/problem/18108) |
+| ??!(10926) | [https://www.acmicpc.net/problem/10926](https://www.acmicpc.net/problem/10926) |
+| 두 수의 합(-) | [https://school.programmers.co.kr/learn/courses/30/lessons/120802](https://school.programmers.co.kr/learn/courses/30/lessons/120802) |
+| 두 수의 차(-) | [https://school.programmers.co.kr/learn/courses/30/lessons/120803](https://school.programmers.co.kr/learn/courses/30/lessons/120803) |
+| 두 수의 곱(-) | [https://school.programmers.co.kr/learn/courses/30/lessons/120804](https://school.programmers.co.kr/learn/courses/30/lessons/120804) |
+
+### 🟠 3단계: 연산자 및 자료형 활용 (6문제)
+다양한 연산자와 자료형을 활용하는 단계입니다.
+
+| 문제이름(번호) | Link |
+|---|---|
+| 몫 구하기(-) | [https://school.programmers.co.kr/learn/courses/30/lessons/120805](https://school.programmers.co.kr/learn/courses/30/lessons/120805) |
+| 두 수의 나눗셈(-) | [https://school.programmers.co.kr/learn/courses/30/lessons/120806](https://school.programmers.co.kr/learn/courses/30/lessons/120806) |
+| 나이 출력(-) | [https://school.programmers.co.kr/learn/courses/30/lessons/120820](https://school.programmers.co.kr/learn/courses/30/lessons/120820) |
+| 양꼬치(-) | [https://school.programmers.co.kr/learn/courses/30/lessons/120830](https://school.programmers.co.kr/learn/courses/30/lessons/120830) |
+| Hello Judge(9316) | [https://www.acmicpc.net/problem/9316](https://www.acmicpc.net/problem/9316) |
+| 콜센터(5339) | [https://www.acmicpc.net/problem/5339](https://www.acmicpc.net/problem/5339) |
+
+### 🔴 4단계: 논리연산자 및 비교연산자 (4문제)
+논리연산과 비교연산을 활용하는 단계입니다.
+
+| 문제이름(번호) | Link |
+|---|---|
+| 숫자 비교하기(-) | [https://school.programmers.co.kr/learn/courses/30/lessons/120807](https://school.programmers.co.kr/learn/courses/30/lessons/120807) |
+| 각도기(-) | [https://school.programmers.co.kr/learn/courses/30/lessons/120829](https://school.programmers.co.kr/learn/courses/30/lessons/120829) |
+| 점의 위치 구하기(-) | [https://school.programmers.co.kr/learn/courses/30/lessons/120841](https://school.programmers.co.kr/learn/courses/30/lessons/120841) |
+| 그대로 출력하기(11718) | [https://www.acmicpc.net/problem/11718](https://www.acmicpc.net/problem/11718) |
